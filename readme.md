@@ -26,4 +26,12 @@ ___
         - [Twitter data scrapping](https://github.com/mayait/ClaseAnalisisDatos/blob/main/nlp/2022_Twitter_Data_Scrapper.ipynb)
         - [NLP, Tokenización y Sentiment Analysis](https://github.com/mayait/ClaseAnalisisDatos/blob/main/nlp/NLP_Tokenization_Sentiment_Analysis.ipynb)
 
-- 
+### Referencias:
+
+#### Datasets
+- [Credit: Credit Card Balance Data](https://rdrr.io/cran/ISLR/man/Credit.html)
+- [Penn World Table Compare Economic Growth Across Countries](https://www.kaggle.com/datasets/jboysen/penn-world-table)
+- [Wine Reviews - wine reviews with variety, location, winery, price, and description](https://www.kaggle.com/datasets/zynicide/wine-reviews)
+- [Advertising Dataset](https://www.kaggle.com/datasets/ashydv/advertising-dataset)
+- [Bank Marketing DataSet](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+- [SuperStore Dataset](https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset)
