@@ -17,11 +17,11 @@ ___
     - [Práctica de creación, lectura y escritura de DataFrames](https://github.com/mayait/ClaseAnalisisDatos/blob/main/pandas/Pandas_Exercise_Creating_Reading_and_Writing.ipynb)
     - [Práctica de indexado, selección y asignación](https://github.com/mayait/ClaseAnalisisDatos/blob/main/pandas/Pandas_exercise_indexing_selecting_assigning.ipynb)
 
-- ### Machine Learning
+- ### Machine Learning
     - [Regresión lineal](https://github.com/mayait/ClaseAnalisisDatos/blob/main/regresion_lineal/reg_lineal_simple.ipynb)
     - [Regresión lineal multiple](https://github.com/mayait/ClaseAnalisisDatos/blob/main/regresion_lineal/reg_lineal_multiple.ipynb)
     - [Arboles de decisión](https://github.com/mayait/ClaseAnalisisDatos/blob/main/DesitionTree/Desition_Tree_2.0.ipynb)
-    - Procesamiento de lenguaje natural
+    - #### Procesamiento de lenguaje natural
         - [Twitter data scrapping](https://github.com/mayait/ClaseAnalisisDatos/blob/main/nlp/2022_Twitter_Data_Scrapper.ipynb)
         - [NLP, Tokenización y Sentiment Analysis](https://github.com/mayait/ClaseAnalisisDatos/blob/main/nlp/NLP_Tokenization_Sentiment_Analysis.ipynb)
 
