@@ -5,19 +5,19 @@ Julián Maya - jamaya@usfq.edu.ec
 
 ## Tabla de contenidos
 ___
-- Introducción a Python
+- ### Introducción a Python
     - [Python 101](https://github.com/mayait/ClaseAnalisisDatos/blob/main/python101/intro_to_python.ipynb)
     - [Estádistica descriptiva con python](https://github.com/mayait/ClaseAnalisisDatos/blob/main/python101/EstadisticaDescriptivaPython.ipynb)
     - [Spotify y Pandas (Parte 1)](https://github.com/mayait/ClaseAnalisisDatos/blob/main/python101/spotify_parte1.ipynb)
     - [Spotify y Pandas (Parte 2)](https://github.com/mayait/ClaseAnalisisDatos/blob/main/python101/spotify_parte2.ipynb)
 
 
-- Introducción a Pandas
+- ### Introducción a Pandas
     - [Introducción a Pandas](https://github.com/mayait/ClaseAnalisisDatos/blob/main/pandas/intro_to_pandas.ipynb)
     - [Práctica de creación, lectura y escritura de DataFrames](https://github.com/mayait/ClaseAnalisisDatos/blob/main/pandas/Pandas_Exercise_Creating_Reading_and_Writing.ipynb)
     - [Práctica de indexado, selección y asignación](https://github.com/mayait/ClaseAnalisisDatos/blob/main/pandas/Pandas_exercise_indexing_selecting_assigning.ipynb)
 
-- Machine Learning
+- ### Machine Learning
     - [Regresión lineal](https://github.com/mayait/ClaseAnalisisDatos/blob/main/regresion_lineal/reg_lineal_simple.ipynb)
     - [Regresión lineal multiple](https://github.com/mayait/ClaseAnalisisDatos/blob/main/regresion_lineal/reg_lineal_multiple.ipynb)
     - [Arboles de decisión](https://github.com/mayait/ClaseAnalisisDatos/blob/main/DesitionTree/Desition_Tree_2.0.ipynb)
