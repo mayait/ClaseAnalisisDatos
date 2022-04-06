@@ -1,6 +1,7 @@
 # Clase Análisis de Datos
 
 Ejercicios de la clase de análisis de datos - ADM2004 USFQ
+
 Julián Maya - jamaya@usfq.edu.ec
 
 ## Tabla de contenidos
